@@ -18,4 +18,5 @@ await page.getByRole('textbox', { name: 'First Name' }).fill('Test');
 await page.getByRole('textbox', { name: 'Last Name' }).fill('prueba');
 await page.locator('#userEmail').fill('prueba@test.com');
 await page.locator('#gender-radio-1').click;
+await page.locator('#gender-radio-1').click;
 });
