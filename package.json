@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Celaya55/playw#readme",
   "devDependencies": {
+    "@faker-js/faker": "^10.5.0",
     "@playwright/test": "^1.61.1",
     "@types/node": "^26.1.0"
   }
